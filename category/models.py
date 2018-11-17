@@ -11,3 +11,5 @@ class ca_category(models.Model):
 
     def __str__(self):
         return self.CATEGORY_NAME
+
+
